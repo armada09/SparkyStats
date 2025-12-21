@@ -1,6 +1,7 @@
 # SparkyStats
 The csv file for the sparky stats dashbaord
 
+### website Url
 This github repo stores the csv file for the sparky stat dasbhoard located at the link below:
 https://sparkystats.pythonanywhere.com/dashboard/
 
@@ -13,6 +14,21 @@ Note that dashboard and csv file gives users maximum flexibility. It allows user
 - A maximum of 25 user created categories can be allowed. Sparky does suggest your max limit to 10 categories so your charts are more visible and clean.
 - For genre name, use a maximum of 14 characters otherwise it will truncate.
 - For author name, use a maximum of 14 characters otherwise it will truncate.
+
+
+
+### CSV data columns 
+
+|Title|Author|Series|Format|Source|Status|Category|
+|---------|----|----|----|----|-----|----|----
+
+Category,Genre,Month Read,Page Count,Pages Read,Hours Listened,Rating / 5,Notes
+
+| Waifu   |Code|L2Dx|L2Dy|L2Dz| L2dw|
+|---------|----|----|----|----|-----|
+|xmas lucifer|001a |  [x] | [x] | ☑ | x |
+|gunslinger lucifer| 001b| [x]| [y] | ☑ | x |
+
 
 
 ### For each column the following suggested catgories can be used: 
