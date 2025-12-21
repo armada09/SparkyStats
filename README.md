@@ -19,20 +19,14 @@ Note that dashboard and csv file gives users maximum flexibility. It allows user
 
 ### CSV data columns 
 
-|Title|Author|Series|Format|Source|Status|Category|
-|---------|----|----|----|----|-----|----|----
-
-Category,Genre,Month Read,Page Count,Pages Read,Hours Listened,Rating / 5,Notes
-
-| Waifu   |Code|L2Dx|L2Dy|L2Dz| L2dw|
-|---------|----|----|----|----|-----|
-|xmas lucifer|001a |  [x] | [x] | ☑ | x |
-|gunslinger lucifer| 001b| [x]| [y] | ☑ | x |
+|Title|Author|Series|Format|Source|Status|Category|Genre|Month Read|Page Count|Pages Read|Hours Listened|Rating / 5|Notes|
+|-----|------|------|------|------|------|--------|-----|----------|----------|----------|--------------|----------|-----|
 
 
 
 ### For each column the following suggested catgories can be used: 
 **Genre**: 
+_Pick one main genre of the book._
 - action
 - romance
 - contemporary
@@ -54,11 +48,14 @@ A type of book or an age group you can also combine them as well if you so wish.
 - non-fiction
 - shoujo
 
-**BookSource**
+**Book Source**
+_Pick one main source of the book._
 - physical
-- EIBR
+- tbr
 - Kobo
+- Kindle
 - ARCS
 
+**Status**
 DNF
 planned to read
