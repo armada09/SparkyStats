@@ -6,6 +6,9 @@ The objective of the dashboard is to give readers a yearly overview of their rea
 This github repo stores the csv file for the sparky stat dashboard located at the link below:
 https://sparkystats.pythonanywhere.com/dashboard/
 
+For any comments,feedbacks and suggestions you can email us at:
+**sparkystats@protonmail.com**
+
 You can download the csv file called **sparky_template.csv** from here and populate it with your book data. 
 Note that dashboard and csv file gives users maximum flexibility. It allows users to design their own categories and genres. The system does not store the user's records or inputs as there is no database.
 The dashboard opens the csv, analyzes the csv and populates the charts and data. Therefore it is the user's responsibility to save, store and manage their own csv file. The user is allowed to rename the csv file as required. 
