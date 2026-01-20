@@ -2,6 +2,8 @@
 This Github repo contains the information with the csv file needed for the spark stat book dashboard. 
 The objective of the dashboard is to give readers a yearly overview of their readding by month and several categories.
 
+If you like this site please share using **#sparkystats**
+
 ## Website Url
 This github repo stores the csv file for the sparky stat dashboard located at the link below:
 https://sparkystats.pythonanywhere.com/dashboard/
